@@ -3,7 +3,7 @@ Job Posting:
 or call it whatever suits you. Just fork the Repo with your suggestions!
 
 ### Context:
-némata is yet another one of those super-innovative Berlin web agencies. We’ve been going for some years now, and there are currently five of us hanging out in our very laid back Berlin office. Like any other agency or startup we only drink quality coffee and our Club Mate stocks will last at least another season. But sometimes we get stuff done, and we have fun doing it. We like our clients (mostly) and respect each other frequently. When we work, our focus is always on building great products.
+[némata](http://nemata.com) is yet another one of those super-innovative Berlin web agencies. We’ve been going for some years now, and there are currently five of us hanging out in our very laid back Berlin office. Like any other agency or startup we only drink quality coffee and our Club Mate stocks will last at least another season. But sometimes we get stuff done, and we have fun doing it. We like our clients (mostly) and respect each other frequently. When we work, our focus is always on building great products.
 What we do: we conceive and code creative technology projects for film productions, ad agencies, startups, and established brands. We operate within and between the realms of Creativity, Technology, Moving Images and Social Media [easy megapoints for bullshit bingo buzzwords, but nevertheless, true].
 
 
