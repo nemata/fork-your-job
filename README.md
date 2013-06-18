@@ -21,7 +21,7 @@ What we do: we conceive and code creative technology projects for film productio
  * In other words, you have 42 years of experience (that we don’t care that much about), as well as a fresh young appearance (important)
  * You have experience in managing and building up teams between 2 and 9,223,372,036,854,775,807 members
  * You have profound knowledge in JavaScript / CoffeScript / Chaplin.js / AngularJS / node.js / Express,  MVC, OOP, API Design, HTML5, CSS3, SQL / NoSQL, responsive design
- * Written and spoken language proficiency in German, English, Farsi, Italian, Spanish, Dutch, Swedish, Japanese, Hindi, Finnisch and Hungarian (Latin and Acient Greek are advantageous)
+ * Written and spoken language proficiency in German, English, Farsi, Italian, Spanish, Dutch, Swedish, Japanese, Hindi, Suomi and Hungarian (Latin and Acient Greek are advantageous)
  * You bring along innovation skills, flexibility, mobility, and a young spirit as well as good looks under pressure, trustworthiness, a sense of responsibility, discipline, and conscientiousness.  Really – all of that.
  * You hold keynotes at TED and JSConf on a regular basis
  * You require no more than two hours of sleep each night without it impacting your good mood and, under pressure, you can code for up to 1 week without a break.
