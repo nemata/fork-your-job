@@ -7,30 +7,29 @@ or call it whatever suits you. Just fork the Repo with your suggestions!
 What we do: we conceive and code creative technology projects for film productions, ad agencies, startups, and established brands. We operate within and between the realms of Creativity, Technology, Moving Images and Social Media [easy megapoints for bullshit bingo buzzwords, but nevertheless, true].
 
 
-### Responsibilities
+### Responsibilities, as usual
  * You will lead the team of programmers (staff & freelance) and the technical project management
  * You will design and develop awesome software solutions
  * You will write code that all your peers will admire
  * You are expected to wear nerdy t-shirts and kill 1l of Club Mate per day
  * You can, regularly, choose a topic and talk shop about it (so we can all learn)
  * Bonus points for a highscore in bullshit bingo or #winning Hackathons
- * New responsibilities everyday!
 
-### Requirements
- * You’ve lost your “work in a creative group/startup virginity” recently
+### The usual requirements
+ * You’ve lost your “work in a creative group/startup virginity”
  * In other words, you have 42 years of experience (that we don’t care that much about), as well as a fresh young appearance (important)
  * You have experience in managing and building up teams between 2 and 9,223,372,036,854,775,807 members
  * You have profound knowledge in JavaScript / CoffeScript / Chaplin.js / AngularJS / node.js / Express,  MVC, OOP, API Design, HTML5, CSS3, SQL / NoSQL, responsive design
- * Written and spoken language proficiency in German, English, Farsi, Italian, Spanish, Dutch, Swedish, Japanese, Hindi, Suomi and Hungarian (Latin and Ancient Greek are advantageous)
- * You bring along innovation skills, flexibility, mobility, and a young spirit as well as good looks under pressure, trustworthiness, a sense of responsibility, discipline, and conscientiousness.  Really – all of that.
+ * Written and spoken language proficiency in German, English, Farsi, Italian, Spanish, French, Dutch, Swedish, Japanese, Hindi, Suomi and Hungarian (Latin and Ancient Greek are advantageous)
+ * You bring along innovation skills, flexibility, mobility, and a young spirit as well as good looks under pressure, trustworthiness, a sense of responsibility, discipline, and conscientiousness. Really – all of that.
  * You hold keynotes at TED and JSConf on a regular basis
- * You require no more than two hours of sleep each night without it impacting your good mood and, under pressure, you can code for up to 1 week without a break.
 
-### Salary
- * Based on experience & abilities, but competitive for Berlin full time development employment with unlimited Club Mate & espresso baked into the contract. Which would be 10 Euro per year – if you don’t fork it ;-)
+### Salary (extraordinary)
+ * Based on experience & abilities, but competitive for Berlin full time development employment with Gigabit Club Mate & espresso supply baked into the contract. Which would be 10 Euro per year – if you don’t fork it ;-)
+ * We're open for any kind of collaboration, just ping us.
 
 
-### Miscellaneous
+### miscellaneous Miscellaneous
  * Your place of work will be Berlin, Germany
  * You will be granted 0 vacation days – you know the drill ;-)
  * Clock-in is at 10:30 AM. 
